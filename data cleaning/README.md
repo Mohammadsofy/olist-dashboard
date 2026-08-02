@@ -1,7 +1,3 @@
-# 🛍️ Brazilian E-Commerce Analytics Dashboard
-
-[![Live Demo](https://huggingface.co/spaces/Mohamadsofysn/olist-ecommerce-dashboard)](https://huggingface.co/Mohamadsofysn)
-
 # 🇧🇷 Olist E-Commerce: Bridging the Gap Between Data & Business Intelligence
 
 ## 🌟 The "Why" Behind the Project
@@ -48,5 +44,5 @@ Instead of static reports, I built a dynamic environment where users can "talk" 
 ---
 
 ## 💡 The Senior Takeaway
-This project was more than just a coding exercise; it was a lesson in **Efficiency and User Experience**. By handling real-world data challenges—such as outliers and complex relational joins—and deploying a live cloud application, I’ve demonstrated a complete mastery of the data science lifecycle.
+This project was more than just a coding exercise; it was a lesson in **Efficiency and User Experience**. By handling real-world data challenges such as outliers and complex relational joins and deploying a live cloud application, I’ve demonstrated a complete mastery of the data science lifecycle.
 
