@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.ipynb_checkpoints/
+final_master_dataset.csv
+master_df*.csv
+olist_*.csv
+portfolio_data.csv
